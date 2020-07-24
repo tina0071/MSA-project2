@@ -3,7 +3,7 @@
 The following document contains a detailed report on the process of creating my Wordpress resume/blog. Throughout this document, you will be able to explore:
  1. Challenges faced
  2. Information on the Plugins used
- 3. Choice of design
+ 3. Choice of designs
 
 ## Daily Report of Challenges 
 Whilst creating the project, there were many difficulties faced and these challenges are recorded on the day of creating and progressing through the project. 
@@ -73,5 +73,5 @@ Ultimately, this report was to reflect on the project given by MSA and was to pr
 
 As a result, I enjoyed the process of creating this project. Though there was much difficulty faced throughout the creation of this project, I was able to develop my website as well as my understanding and experience with WordPress. I hope to further implement this knowledge again sometime in future to demonstrate my strong understanding of WordPress and gain more experiences. 
 
-## Link to my Blog/Resume site on WordPress
+## Link to my Blog/Resume site on WordPress herrroooo
 https://msaproject2.azurewebsites.net
